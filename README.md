@@ -1,2 +1,2 @@
 
-![Ahmed's Streak](https://github-readme-streak-stats.herokuapp.com/?theme=github_dark&user=ahmedkerouat&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedkerouat&theme=github-dark&border_radius=0)](https://git.io/streak-stats)
